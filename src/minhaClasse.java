@@ -1,7 +1,7 @@
 public class minhaClasse {
 
     public static void main (String [] args) throws Exception {
-        System.out.println("FODASE PELOAMMORRRRRRRRRRRRRRRR");
+        System.out.println("Desgraça");
     }
 
 }
